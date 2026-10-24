@@ -2,6 +2,8 @@
 
 Looking for youtube video downloader? Here, you will learn a method to download videos from YouTube on Android in any resolution.
 
+🎥 [Watch Video Tutorial](https://cdn.jsdelivr.net/gh/Hiro8541/youtube-downloader-android@main/assets/download-youtube-videos-1080-4k-720.mp4)
+
 Follow the steps in order to download videos from youtube on your android device.
 
 ## 1. Install & open the CORS Tester app
